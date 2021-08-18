@@ -1,0 +1,104 @@
+.header {
+  margin: auto;
+
+  width: 1055px;
+  height: 60px;
+  border-radius: 0px;
+  display: flex;
+}
+
+.logo {
+  width: 60px;
+}
+
+.main {
+  height: 680px;
+  text-align: center;
+  background-color: white;
+  width: 1055px;
+  border-radius: 0px;
+  padding-top: 20px;
+  margin: auto;
+}
+
+.knop {
+  width: 10px;
+  text-decoration: none;
+  padding: 15px;
+  color: blue;
+}
+
+.counter {
+  width: 200px;
+  height: 30px;
+}
+
+h5 {
+  font-size: 330px;
+  color: orange;
+  margin: auto;
+}
+
+.increase,
+.decrease,
+.discharge {
+  color: white;
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.increase {
+  background-color: #003399;
+}
+
+.decrease {
+  background-color: #f27c0f;
+}
+
+.discharge {
+  background-color: #e5e5e5;
+  color: black;
+}
+
+.control {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.menuHeader {
+  padding-left: 530px;
+}
+
+.footer {
+  margin: auto;
+
+  width: 1055px;
+  height: 60px;
+  border-radius: 0px;
+}
+
+span {
+  padding-left: 10px;
+}
+
+.intocode {
+  padding-left: 400px;
+}
+
+.knop2 {
+  color: #585858;
+  width: 10px;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.menuFooter {
+  display: flex;
+  justify-content: space-between;
+}
